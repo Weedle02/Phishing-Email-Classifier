@@ -1,1 +1,24 @@
+# Core Libraries
+scikit-learn==1.2.2
+pandas==2.0.3
+numpy==1.24.3
+nltk==3.8.1
+beautifulsoup4==4.12.2
+python-dotenv==1.0.0  # For environment variables (optional)
 
+# Text Processing
+spacy==3.6.1
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.6.0/en_core_web_sm-3.6.0.tar.gz  # Lightweight NLP model
+
+# Email Server & Testing
+aiosmtpd==1.4.4.post2
+smtplib  # Built-in (no install needed)
+tqdm==4.65.0  # For dataset download progress
+
+# Jupyter & Visualization
+jupyter==1.0.0
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# Optional for API (Flask/FastAPI)
+flask==2.3.2  # Uncomment if using API endpoints
