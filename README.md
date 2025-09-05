@@ -1,7 +1,7 @@
 # Phishing-Email-Classifier
 Automate detection of phishing emails.
 
-# Phishing Email Classifier 🛡️
+# Phishing Email Classifier 
 
 A machine learning model to detect phishing emails by analyzing headers, body content, and metadata. Integrates with a mock email server for real-time testing.
 
